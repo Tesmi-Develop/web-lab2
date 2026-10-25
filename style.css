@@ -116,7 +116,9 @@ img {
 .block-text-item {
     float: left;
     width: 30%;
+    height: 140px;
     margin-right: 5%;
+    overflow: hidden;
 }
 
 .block-text-item:last-child {
@@ -145,23 +147,27 @@ img {
 
 .text-side {
     width: 60%;
+    height: 100%;
 }
 
 .image-side {
     width: 35%;
+    height: 100%;
 }
 
 .block-title {
     font-weight: bold;
-    font-size: 18px;
+    font-size: 16px;
+    height: 25%;
 }
 
 .block-desc {
-    height: 74px;
+    height: 60%;
     overflow: hidden;
 }
 
 .block-link {
+    height: 15%;
     display: block;
     color: #806600;
 }
