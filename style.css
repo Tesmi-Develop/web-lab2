@@ -18,6 +18,7 @@ img {
     border-right: 1px solid #acacac;
     font-size: 15px;
     padding: 20px 15px;
+    text-decoration: none;
 }
 
 .active {
